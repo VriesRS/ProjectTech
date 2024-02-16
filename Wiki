@@ -1,1 +1,10 @@
+Week 1
+Door de loop van week 1 van dit vak hebben we voornamelijk javascript herhaald doormiddel van theorie en opdrachten uit te voeren.
+Dit verliep best voorspoedig bij mij en kwam er zonder hulp uit. Hierdoor hebben we een goede opfrisser gehad om zo te gaan beginnen
+aan het grote project.
 
+
+Week 2 
+In deze week hebben we in de eerste les nog wat backend behandeld om zo de basis op te pakken om te communiceren met de server.
+In de 2de les hebben we api aanroeping als uitleg gekregen hiermee gingen we in op de basics en op empty state en loading state.
+Hier had ik zelf wat meer moeite mee om het in het begin werkende te krijgen maar het is me uiteindelijk wel gelukt.
