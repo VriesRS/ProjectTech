@@ -8,3 +8,9 @@ Week 2
 In deze week hebben we in de eerste les nog wat backend behandeld om zo de basis op te pakken om te communiceren met de server.
 In de 2de les hebben we api aanroeping als uitleg gekregen hiermee gingen we in op de basics en op empty state en loading state.
 Hier had ik zelf wat meer moeite mee om het in het begin werkende te krijgen maar het is me uiteindelijk wel gelukt.
+
+
+Week 3
+In week 3 ben ik zelf de week ziek begonnen hierdoor. Was het lastig voor mij om mij voor een langere tijd te focussen op mijn laptop.
+Hierdoor heb ik niet zo veel gedaan wel was ik online aanwezig mocht ik mijn groepje op afstand moeten/kunnen helpen.
+Verder ben ik in de laatste lesdag wel op school geweest en ben ik aan de slag met het team gegaan.
